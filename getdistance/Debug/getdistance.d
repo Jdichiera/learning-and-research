@@ -1,0 +1,1 @@
+getdistance.d: ../getdistance.cpp

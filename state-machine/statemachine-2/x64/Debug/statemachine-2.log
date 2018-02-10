@@ -1,0 +1,14 @@
+﻿  main.cpp
+  game-engine.cpp
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\igame-state.h(14): error C2061: syntax error: identifier 'GameEngine'
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\igame-state.h(15): error C2061: syntax error: identifier 'GameEngine'
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\igame-state.h(16): error C2061: syntax error: identifier 'GameEngine'
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\igame-state.h(18): error C2061: syntax error: identifier 'GameEngine'
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\igame-state.h(19): error C2065: 'game': undeclared identifier
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\igame-state.h(19): error C2227: left of '->ChangeState' must point to class/struct/union/generic type
+  z:\users\udichje\repo\rnd\state-machine\statemachine-2\igame-state.h(19): note: type is 'unknown-type'
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\igame-state.h(19): error C2065: 'state': undeclared identifier
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\game-engine.cpp(58): error C2660: 'IGameState::HandleEvents': function does not take 1 arguments
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\game-engine.cpp(63): error C2660: 'IGameState::Update': function does not take 1 arguments
+z:\users\udichje\repo\rnd\state-machine\statemachine-2\game-engine.cpp(68): error C2660: 'IGameState::Draw': function does not take 1 arguments
+  Generating Code...

@@ -1,0 +1,1 @@
+snakeeyes.d: ../snakeeyes.cpp

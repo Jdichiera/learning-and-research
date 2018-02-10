@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/udichje/Repo/python/.metadata/.plugins/org.eclipse.core.resources/.projects/monster/com.python.pydev.analysis/v2_indexcache
+main|1485219867000000000|/Users/udichje/Repo/python/monster/main.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=main
+2=Main
+-- END DICTIONARY
+-- START TREE 1
+2
+mai|1|Main!9@
+mon|1|monster!11@
+-- END TREE
+-- START TREE 2
+4
+__i|1|__init__!2&10@
+cha|2|character_won!2&11@character_alive!2&11@
+max|2|max_width!2&11@max_height!2&11@
+mon|3|monster_awakened!2&11@monster_move_per_turn!2&11@monster_awake!2&11@
+-- END TREE

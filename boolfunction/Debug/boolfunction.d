@@ -1,0 +1,1 @@
+boolfunction.d: ../boolfunction.cpp

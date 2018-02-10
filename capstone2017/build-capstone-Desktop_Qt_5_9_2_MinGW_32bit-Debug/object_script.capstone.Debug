@@ -1,0 +1,13 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/database.o
+./debug/user.o
+./debug/student.o
+./debug/course.o
+./debug/faculty.o
+./debug/academic-record.o
+./debug/dialog.o
+./debug/moc_mainwindow.o
+./debug/moc_dialog.o
+);

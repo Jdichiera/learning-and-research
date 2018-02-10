@@ -1,0 +1,1 @@
+gamescores.d: ../gamescores.cpp

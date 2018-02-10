@@ -1,0 +1,1 @@
+highscore.d: ../highscore.cpp

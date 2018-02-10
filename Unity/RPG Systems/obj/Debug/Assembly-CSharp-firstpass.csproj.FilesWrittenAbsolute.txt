@@ -1,0 +1,17 @@
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/udichje/Repo/Unity/RPG Systems/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/udichje/Repo/Unity/RPG Systems/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/UnityEngine.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/UnityEditor.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Mono.Cecil.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Unity.DataContract.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/udichje/Repo/Unity/RPG Systems/Temp/bin/Debug/Mono.Cecil.Mdb.dll

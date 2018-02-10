@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/database.o
+./release/user.o
+./release/student.o
+./release/course.o
+./release/faculty.o
+./release/academic-record.o
+./release/dialog.o
+./release/moc_mainwindow.o
+./release/moc_dialog.o
+);

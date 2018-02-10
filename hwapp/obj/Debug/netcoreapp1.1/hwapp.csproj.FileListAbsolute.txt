@@ -1,0 +1,8 @@
+/Users/udichje/Repo/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/udichje/Repo/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/udichje/Repo/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/udichje/Repo/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/udichje/Repo/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/udichje/Repo/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/udichje/Repo/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/udichje/Repo/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb

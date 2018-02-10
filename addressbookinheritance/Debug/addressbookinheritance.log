@@ -1,0 +1,9 @@
+﻿  record.cpp
+y:\repo\school\advancedc++\advc++\addressbookinheritance\record.h(29): error C2039: 'setZ': is not a member of 'Manufacturing'
+  y:\repo\school\advancedc++\advc++\addressbookinheritance\manufacturing.h(2): note: see declaration of 'Manufacturing'
+  personal-info.cpp
+  main.cpp
+y:\repo\school\advancedc++\advc++\addressbookinheritance\record.h(29): error C2039: 'setZ': is not a member of 'Manufacturing'
+  y:\repo\school\advancedc++\advc++\addressbookinheritance\manufacturing.h(2): note: see declaration of 'Manufacturing'
+  employment-info.cpp
+  Generating Code...

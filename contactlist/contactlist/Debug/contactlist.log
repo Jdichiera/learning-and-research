@@ -1,0 +1,9 @@
+﻿  personal-info.cpp
+  person.cpp
+  employer-info.cpp
+  contactmanager.cpp
+  contact.cpp
+  Generating Code...
+y:\repo\school\contactlist\contactlist\contactmanager.cpp(146): warning C4715: 'displayMenu': not all control paths return a value
+  contactlist.vcxproj -> Y:\Repo\school\contactlist\Debug\contactlist.exe
+  contactlist.vcxproj -> Y:\Repo\school\contactlist\Debug\contactlist.pdb (Partial PDB)

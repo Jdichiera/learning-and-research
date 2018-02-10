@@ -1,0 +1,1 @@
+numberguesser.d: ../numberguesser.cpp
